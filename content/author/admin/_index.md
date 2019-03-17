@@ -1,6 +1,6 @@
 +++
 # Display name
-name = "Nelson Bighetti"
+name = "Austin B. Lawrence"
 
 # Username (this should match the folder name)
 authors = ["admin"]
@@ -9,24 +9,29 @@ authors = ["admin"]
 superuser = true
 
 # Role/position
-role = "Professor of Artificial Intelligence"
+role = "Integrative Anatomy Ph.D. Student"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-organizations = [ { name = "Stanford University", url = "" } ]
+organizations = [ { name = "University of Missouri School of Medicine", url = "" } ]
 
 # Short bio (displayed in user profile at end of posts)
-bio = "My research interests include distributed robotics, mobile computing and programmable matter."
+bio = "frontmatter bio"
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email = ""
 
 # List (academic) interests or hobbies
 interests = [
-  "Artificial Intelligence",
-  "Computational Linguistics",
-  "Information Retrieval"
+  "Human Evolution",
+  "Pelvis & Lower Limb Evolution",
+  "Locomotor Biomechanics",
+  "Bone Functional Adaptation",
+  "Early Hominin Paleoecology",
+  "Ecological Morphology"
 ]
+
+
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
@@ -34,19 +39,15 @@ user_groups = ["Researchers", "Visitors"]
 
 # List qualifications (such as academic degrees)
 [[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
-  year = 2012
+  course = "Ph.D. in Integrative Anatomy (in progress)"
+  institution = "University of Missouri School of Medicine"
+
 
 [[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
+  course = "B.A. in Biological Anthropology"
+  institution = "University of Colorado Boulder"
+  year = 2017
 
-[[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -61,17 +62,29 @@ user_groups = ["Researchers", "Visitors"]
 [[social]]
   icon = "twitter"
   icon_pack = "fab"
-  link = "https://twitter.com/GeorgeCushen"
+  link = "https://twitter.com/Anthro_Austin"
 
 [[social]]
   icon = "google-scholar"
   icon_pack = "ai"
-  link = "https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ"
+  link = "https://scholar.google.com/citations?user=3p4NfjwAAAAJ&hl=en&authuser=1"
 
 [[social]]
   icon = "github"
   icon_pack = "fab"
-  link = "https://github.com/gcushen"
+  link = "https://github.com/austinblawrence"
+  
+[[social]]
+  icon = "researchgate"
+  icon_pack = "ai"
+  link = "https://www.researchgate.net/profile/Austin_Lawrence"
+
+[[social]]
+  icon = "orcid"
+  icon_pack = "ai"
+  link = "https://orcid.org/0000-0001-5988-8495"
+
+  
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -81,7 +94,8 @@ user_groups = ["Researchers", "Visitors"]
 #   link = "files/cv.pdf"
 
 +++
+I am a PhD student in the Integrative Anatomy program at the University of Missouri School of Medicine, Columbia, MO. 
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am interested in the functional morphology of the hip and pelvis in humans, primates, and early hominins, especially as it relates to understanding locomotor and ecological diversity in fossil hominins. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+Additionally, I am interested in understanding how anatomical variation contributes to symptoms and biomechanical differences in patients with conditions such as femoroacetabular impingement.
