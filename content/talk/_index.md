@@ -1,5 +1,5 @@
 +++
-title = "Recent & Upcoming Presentations"
+title = "Conference Presentations"
 
 # View.
 #   1 = List
