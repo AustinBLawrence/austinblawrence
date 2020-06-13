@@ -1,13 +1,13 @@
 +++
 date = "2020-04-14"
-title = "Acetabular orientation in hominins*"
+title = "Acetabular orientation in hominins (conference canceled due to Covid-19 pandemic)"
 draft = false
-abstract = "*Conference canceled due to Covid-19 pandemic"
+abstract = ""
 abstract_short = ""
 authors = ["AB Lawrence", "AS Hammond", "CV Ward"]
 event = "Paleoanthropology Society 2020"
 event_url = ""
-location = "Cleveland, Ohio"
+location = "Los Angeles, California"
 
 highlight = true
 selected = true
