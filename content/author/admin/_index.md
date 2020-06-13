@@ -16,7 +16,7 @@ role = "Ph.D. Student"
 organizations = [ { name = "University of Missouri Department of Pathology and Anatomical Sciences", url = "" } ]
 
 # Short bio (displayed in user profile at end of posts)
-bio = "frontmatter bio"
+bio = "Integrative Anatomy PhD Student, Univeristy of Missouri"
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email = ""
@@ -88,10 +88,10 @@ user_groups = ["Researchers", "Visitors"]
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# [[social]]
-#   icon = "cv"
-#   icon_pack = "ai"
-#   link = "files/cv.pdf"
+[[social]]
+   icon = "cv"
+   icon_pack = "ai"
+   link = "files/cv.pdf"
 
 +++
 I am a PhD student in the Integrative Anatomy program at the University of Missouri School of Medicine, Columbia, MO. 
