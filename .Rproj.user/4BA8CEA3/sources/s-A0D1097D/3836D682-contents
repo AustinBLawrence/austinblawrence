@@ -1,0 +1,26 @@
++++
+date = "2019-03-29"
+title = "Modern evidence of femoroacetabular impingement: implications for interpretations in the archaeological record"
+draft = false
+abstract = ""
+abstract_short = ""
+authors = ["AB Lawrence", "S Townsley", "CV Ward", "BD Crist", "DL Duren"]
+event = "AAPA 2019"
+event_url = ""
+location = "Cleveland, Ohio"
+
+highlight = true
+selected = true
+featured = true
+math = false
+
+url_pdf = ""
+url_slides = ""
+url_video = ""
+
+# Optional featured image (relative to `static/img/` folder).
+[header]
+	image = ""
+	caption = ""
+
++++
