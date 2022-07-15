@@ -9,14 +9,14 @@ authors = ["admin"]
 superuser = true
 
 # Role/position
-role = "Ph.D. Student"
+role = "Ph.D. Candidate"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
 organizations = [ { name = "University of Missouri Department of Pathology and Anatomical Sciences", url = "" } ]
 
 # Short bio (displayed in user profile at end of posts)
-bio = "Integrative Anatomy PhD Student, Univeristy of Missouri"
+bio = "Integrative Anatomy PhD Candidate, Univeristy of Missouri"
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email = ""
@@ -94,7 +94,7 @@ user_groups = ["Researchers", "Visitors"]
    link = "files/cv.pdf"
 
 +++
-I am a PhD student in the Integrative Anatomy program at the University of Missouri School of Medicine, Columbia, MO. 
+I am a PhD Candidate in the Integrative Anatomy program at the University of Missouri School of Medicine, Columbia, MO. 
 
 I am interested in the functional morphology of the hip and pelvis in humans, primates, and early hominins, especially as it relates to understanding locomotor and ecological diversity in fossil hominins. 
 
